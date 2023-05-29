@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rafal
 #### Welcome to my github profile!
-The site is under construction, to see the final result, I invite you again later.
+The site is under construction, to see the final result, take a look another time.
 
 Skills: HTML / CSS / JS / 
 
